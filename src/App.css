@@ -12,7 +12,14 @@ body {
   padding: 20px 60px;
 }
 
+.rtlDirection {
+  direction: rtl;
+}
 a {
   text-decoration: none;
   color: black;
+}
+
+* {
+  box-sizing: border-box;
 }
